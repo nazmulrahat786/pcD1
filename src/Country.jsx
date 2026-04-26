@@ -8,7 +8,7 @@ const Country = ({country}) => {
     console.log(country);
 
     return (
-        <div className="bg-white rounded-xl w-[300px] h-[250px]  shadow-2xl p-5">
+        <div className="bg-white rounded-xl w-[300px] h-[280px]  shadow-2xl p-5">
         <div className="flex items-center justify-between gap-3 mb-3">
                 <h1 className='text-2xl font-bold'>{country.name}</h1>
              <p className='flex justify-center bg-purple-300 text-purple-600 px-2 py-0.5 rounded-2xl items-center gap-0.5'><FaEarthAsia />{country.region}</p>
