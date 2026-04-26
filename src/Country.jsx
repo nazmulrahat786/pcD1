@@ -5,7 +5,7 @@ import { FaPeopleGroup } from "react-icons/fa6";
 import { HiOutlineMap } from "react-icons/hi";
 import { HiCurrencyDollar } from "react-icons/hi";
 const Country = ({country}) => {
-    console.log(country);
+   
 
     return (
         <div className="bg-white rounded-xl w-[300px] h-[280px]  shadow-2xl p-5">
