@@ -4,6 +4,7 @@ const Product = ({ product }) => {
   return (
     <div className="border-b-green-300 shadow-green-400 rounded-2xl w-75 shadow-md hover:shadow-xl transition duration-300 p-5 border border-gray-100">
       
+      <img src={product.image} alt={product.title} />
       {/* Title */}
       <h2 className="text-lg text-center  font-bold text-gray-800 mb-2">
         {title}
