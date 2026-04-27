@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "title": "Wireless Headphones",
+    "category": "Electronics",
+    "price": 59.99,
+    "rating": 4.5,
+    "stock": 120
+  },
+  {
+    "id": 2,
+    "title": "Smart Watch",
+    "category": "Electronics",
+    "price": 89.99,
+    "rating": 4.2,
+    "stock": 80
+  },
+  {
+    "id": 3,
+    "title": "Gaming Mouse",
+    "category": "Accessories",
+    "price": 25.5,
+    "rating": 4.7,
+    "stock": 200
+  },
+  {
+    "id": 4,
+    "title": "Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 45.0,
+    "rating": 4.3,
+    "stock": 150
+  },
+  {
+    "id": 5,
+    "title": "Laptop Stand",
+    "category": "Office",
+    "price": 30.0,
+    "rating": 4.6,
+    "stock": 90
+  },
+  {
+    "id": 6,
+    "title": "Mechanical Keyboard",
+    "category": "Accessories",
+    "price": 70.0,
+    "rating": 4.8,
+    "stock": 60
+  },
+  {
+    "id": 7,
+    "title": "Desk Lamp",
+    "category": "Home",
+    "price": 20.0,
+    "rating": 4.1,
+    "stock": 110
+  },
+  {
+    "id": 8,
+    "title": "Backpack",
+    "category": "Fashion",
+    "price": 40.0,
+    "rating": 4.4,
+    "stock": 75
+  },
+  {
+    "id": 9,
+    "title": "Running Shoes",
+    "category": "Fashion",
+    "price": 65.0,
+    "rating": 4.5,
+    "stock": 95
+  },
+  {
+    "id": 10,
+    "title": "Sunglasses",
+    "category": "Fashion",
+    "price": 15.0,
+    "rating": 4.0,
+    "stock": 130
+  },
+  {
+    "id": 11,
+    "title": "Water Bottle",
+    "category": "Home",
+    "price": 10.0,
+    "rating": 4.3,
+    "stock": 180
+  },
+  {
+    "id": 12,
+    "title": "Notebook",
+    "category": "Office",
+    "price": 5.0,
+    "rating": 4.6,
+    "stock": 300
+  },
+  {
+    "id": 13,
+    "title": "Pen Set",
+    "category": "Office",
+    "price": 12.0,
+    "rating": 4.2,
+    "stock": 220
+  },
+  {
+    "id": 14,
+    "title": "Coffee Mug",
+    "category": "Home",
+    "price": 8.0,
+    "rating": 4.7,
+    "stock": 140
+  },
+  {
+    "id": 15,
+    "title": "Phone Case",
+    "category": "Accessories",
+    "price": 18.0,
+    "rating": 4.4,
+    "stock": 160
+  },
+  {
+    "id": 16,
+    "title": "Tablet",
+    "category": "Electronics",
+    "price": 150.0,
+    "rating": 4.3,
+    "stock": 50
+  },
+  {
+    "id": 17,
+    "title": "Monitor",
+    "category": "Electronics",
+    "price": 200.0,
+    "rating": 4.6,
+    "stock": 40
+  },
+  {
+    "id": 18,
+    "title": "Office Chair",
+    "category": "Furniture",
+    "price": 120.0,
+    "rating": 4.5,
+    "stock": 35
+  },
+  {
+    "id": 19,
+    "title": "Table Fan",
+    "category": "Home",
+    "price": 35.0,
+    "rating": 4.2,
+    "stock": 70
+  },
+  {
+    "id": 20,
+    "title": "LED Light Strip",
+    "category": "Home",
+    "price": 22.0,
+    "rating": 4.6,
+    "stock": 100
+  }
+]
